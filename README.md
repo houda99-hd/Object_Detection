@@ -1,1 +1,1 @@
-# IA project for detection annotations
+# YOLOv2

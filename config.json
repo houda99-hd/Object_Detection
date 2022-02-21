@@ -1,0 +1,16 @@
+{
+    "backend_paths": {
+        "mobilenet": "../src/core/backend_weights/mobilenet_backend.h5"
+    },
+
+    "datasets_paths": {
+        "raccoon": "../datasets/raccoon/",
+        "wildlife": "../datasets/wildlife/"
+    },
+
+    "agents_paths": {
+        "teacher": "../agents/teacher/",
+        "student": "../agents/student/"
+    }
+
+}
